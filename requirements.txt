@@ -1,0 +1,14 @@
+pip~=21.3.1
+wheel~=0.36.2
+cryptography~=3.4.7
+lxml~=4.6.3
+tornado~=6.1
+setuptools~=58.2.0
+Cython~=0.29.23
+uvicorn~=0.15.0
+fastapi~=0.70.0
+pydantic~=1.8.2
+nltk~=3.6.5
+gunicorn==19.9.0
+uvloop==0.16.0
+httptools==0.3.0
